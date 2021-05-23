@@ -10,7 +10,7 @@ run the two separate test files.
 
 To run this project:<br>
 1 Download project folder.<br>
-2 Navigate to src/ie/gmit/dip folder in command prompt.
-3 Enter the command javac *.java
-4 Navigate back three levels to the src folder.
-5 Enter the command..   java ie.gmit.dip.InsuranceProgram     (or whichever tests you wish to run.)
+2 Navigate to src/ie/gmit/dip folder in command prompt.<br>
+3 Enter the command javac *.java<br>
+4 Navigate back three levels to the src folder.<br>
+5 Enter the command..   java ie.gmit.dip.InsuranceProgram     (or whichever tests you wish to run.)<br>
